@@ -35,8 +35,12 @@ Judul : string <br>
 Genre : string <br>
 Durasi : int
 
-3. StudioBioskop (Inheritance StudioBioskop) <br>
+3. StudioBioskop (Inheritance Film) <br>
 NomorStudio : int <br>
 Kapasitas : int <br>
 TipeStudio : string <br>
 FotoProduk : string
+
+## Alur Program
+
+1. Program memuat 5 data default/awal.
