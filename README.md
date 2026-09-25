@@ -17,7 +17,7 @@ Terdapat 3 class:
 ## Diagram Konsep:
 <img width="197" height="725" alt="Screenshot 2026-09-22 125021" src="https://github.com/user-attachments/assets/fc526b33-878d-4cdb-b30f-445b2c4ab286" />
 
-Alasan pemilihan class:
+## Alasan pemilihan class:
 1. EntitasBioskop : Di dunia nyata, entitas bioskop (seperti XXI atau CGV) memiliki identitas umum yang ga bergantung sama film yang lagi tayang atau studio mana yang dipake.
 2. Film : Film diturunkan dari EntitasBioskop karena tayangan film terjadi di bawah suatu entitas bioskop tertentu.
 3. StudioBioskop : Kelas ini berada di tingkat paling bawah karena mencerminkan kejadian nyata di mana suatu film tertentu diputar di studio tertentu pada bioskop tertentu.
