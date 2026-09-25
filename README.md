@@ -44,3 +44,10 @@ FotoProduk : string
 ## Alur Program
 
 1. Program memuat 5 data default/awal.
+2. Setelah melakukan run di cmd, data langsung ditampilkan pada sebuah tabel.
+3. Semua data dapat ditampilkan di tabel dinamis.
+4. User dapat menginput data baru.
+5. Pada PHP dapat mengupload gambar ke atribut foto.
+
+## Dokumentasi Program
+### C++
