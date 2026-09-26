@@ -46,8 +46,20 @@ FotoProduk : string
 1. Program memuat 5 data default/awal.
 2. Setelah melakukan run di cmd, data langsung ditampilkan pada sebuah tabel.
 3. Semua data dapat ditampilkan di tabel dinamis.
-4. User dapat menginput data baru.
-5. Pada PHP dapat mengupload gambar ke atribut foto.
+4. setelah menampilkan user langsung bisa menambahkan data baru
+5. setelah menginput, data langsung menampilkan hasil keseluruhan secara otomatis.
+6. Pada PHP dapat mengupload gambar ke atribut foto.
 
 ## Dokumentasi Program
 ### C++
+<img width="933" height="742" alt="CPP_tp2" src="https://github.com/user-attachments/assets/ec324234-362f-48e1-bd82-95bed3e7c835" />
+
+### Java
+<img width="1531" height="726" alt="image" src="https://github.com/user-attachments/assets/0ab69fdb-607e-4918-a1b4-25f111fbc5df" />
+
+### PYTHON
+<img width="967" height="685" alt="image" src="https://github.com/user-attachments/assets/5b679eaa-3045-495d-be54-52040e6920e0" />
+
+### PHP
+<img width="687" height="847" alt="Screenshot 2026-09-26 204855" src="https://github.com/user-attachments/assets/ed0254d1-c383-44d5-9b17-a3516ef1e568" />
+<img width="1918" height="931" alt="Screenshot 2026-09-26 204918" src="https://github.com/user-attachments/assets/bcd3bb67-3230-46e9-8494-e80f0008737e" />
